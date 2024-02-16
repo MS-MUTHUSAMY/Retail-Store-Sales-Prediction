@@ -128,5 +128,8 @@
 - XGBoost Accuracy - 94.211523
 - DNN Accuracy - 90.503287
 
+# Links:
+* **YouTube Link  :** https://youtu.be/lnlPvn372C8
+* **LinkedIn Link : ** https://www.linkedin.com/in/ms-mgr-agri/
 
 
